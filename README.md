@@ -1,0 +1,1 @@
+This project is the creation of a website for a fictional charity organization named The Watchful Servant Ministries.
